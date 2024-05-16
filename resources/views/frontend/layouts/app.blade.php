@@ -53,6 +53,7 @@
                     <li><a href="{{ route('about') }}">About</a></li>
                     <li><a href="{{ route('blog.index') }}">Blog</a></li>
                     <li><a href="{{ route('contact') }}">Contact</a></li>
+                    <li><a href="{{ route('login') }}">Admin</a></li>
                 </ul>
             </nav><!-- .navbar -->
 
